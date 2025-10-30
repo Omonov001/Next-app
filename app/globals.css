@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+body {
+  overflow-x: hidden;
+}
+nav {
+  background-color: rgba(0, 0, 0, 0.152);
+}
+main {
+  background-color: rgba(0, 0, 0, 0.152);
+  position: absolute;
+}
+.H {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 40px;
+}
