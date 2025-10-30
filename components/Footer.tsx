@@ -20,7 +20,7 @@ function Footer() {
       <div className="w-[1450px] ml-10 bg-gray-700 h-[2px]"></div>
       <div className="orta">
         <h1 className="text-4xl m-10">
-          Let's go on vacation, <br /> Make your day
+          Lets go on vacation, <br /> Make your day
         </h1>
         <div className="inp m-10 mt-20">
           <input
